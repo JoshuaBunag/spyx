@@ -23,3 +23,6 @@ Post Method:
     "name": "Josh Clarence Bunag"
 }
 ```
+# Notes
+- The currently doesn't have any database but needs you to run mysql in the background.
+- Please chang the application.properties according to your mysql configuration.
