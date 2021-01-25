@@ -13,9 +13,13 @@ mvn install
 
 ## Usage
 
-# Download Postman and follow along with the method bellow:
+# Download Postman and follow along with the method bellow.
 
-# GET
-``` Get
+Postman Link: localhost:1111/model/client - SImply run Get with this link and it will show up the data inside the database.
 
+Post Method:
+```
+{
+    "name": "Josh Clarence Bunag"
+}
 ```
