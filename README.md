@@ -1,11 +1,12 @@
-# Foobar
+# Spyx
 
-Foobar is a Python library for dealing with word pluralization.
+Spyx is a simple REST representation
 
 ``` Installation
 mvn install
+```
 
-```bash
+``` bash
 pip install foobar
 ```
 
