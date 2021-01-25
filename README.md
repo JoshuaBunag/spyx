@@ -17,7 +17,7 @@ mvn install
 
 Postman Link: localhost:1111/model/client - Simply run Get with this link and it will show up the data inside the database.
 
-Post Method:
+Post Method Json example:
 ```
 {
     "name": "Josh Clarence Bunag"
