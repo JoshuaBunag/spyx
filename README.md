@@ -1,14 +1,14 @@
 # Spyx
 
-Spyx is a simple REST representation
+Spyx is a simple REST representation using Java Spring Boot.
 
+# Run maven dependencies
 ``` Installation
 mvn install
 ```
 
-``` bash
-pip install foobar
-```
+## Run application on Selected Java Compilers:
+- intellij
 
 ## Usage
 
