@@ -15,7 +15,7 @@ mvn install
 
 # Download Postman and follow along with the method bellow.
 
-Postman Link: localhost:1111/model/client - SImply run Get with this link and it will show up the data inside the database.
+Postman Link: localhost:1111/model/client - Simply run Get with this link and it will show up the data inside the database.
 
 Post Method:
 ```
@@ -24,5 +24,5 @@ Post Method:
 }
 ```
 # Notes
-- The currently doesn't have any database but needs you to run mysql in the background.
+- This currently doesn't have any database but needs you to run mysql in the background.
 - Please chang the application.properties according to your mysql configuration.
