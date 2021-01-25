@@ -9,13 +9,15 @@ mvn install
 
 ## Run application on Selected Java Compilers:
 - intellij
+- Eclipse
 
 ## Usage
 
-```python
-import foobar
+``` Steps
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+1.
+2.
+3.
+
+
 ```
