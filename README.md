@@ -13,11 +13,9 @@ mvn install
 
 ## Usage
 
-``` Steps
+# Download Postman and follow along with the method bellow:
 
-1.
-2.
-3.
-
+# GET
+``` Get
 
 ```
